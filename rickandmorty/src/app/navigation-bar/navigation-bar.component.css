@@ -14,4 +14,10 @@ a {
 
 .item1, .form1 {
   font-size: large;
+  margin-right: 15px;
+}
+
+.box1 {
+  padding-left: 18.5% !important;
+  padding-right: 17.5% !important;
 }
